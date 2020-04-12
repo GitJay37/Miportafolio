@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Mi portafolio web",
   "main": "index.js",
-  "homepage": "https://gitjay37.github.io/myPortfolio",
+  "homepage": "https://GitJay37.github.io/myPortfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
